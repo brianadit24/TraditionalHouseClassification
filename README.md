@@ -1,9 +1,12 @@
 # Traditional House Classification in Indonesia
-This is Machine Learning Notebook to Classifiy Traditional House in Indonesia using MobileNetV2 Architecture.
+<center><img src="assets/intro.jpg" width="800px"/></center>
+
+## Introduction
+This is Machine Learning Notebook Research to Classifiy Traditional House in Indonesia using MobileNetV2 Architecture.
 
 ### This Research Funded by HIT (Hibah Integrasi Tridharma)
 
-### Our Workflow to Build this Model:
+## Workflows to Build Model
 1. Collect Data on Google Image
 2. Cleansing Data and Data Preprocessing
 3. Data Augmentation
@@ -12,7 +15,7 @@ This is Machine Learning Notebook to Classifiy Traditional House in Indonesia us
 6. Continue Training with UnFreeze Model (Fine Tuning)
 7. Saved and Evaluate The Model
 
-### Result:
+## Result
 1. <b>Training History:</b>
 
     <img src="assets/history_training.png" width="400px"/>
