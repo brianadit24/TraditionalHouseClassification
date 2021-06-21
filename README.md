@@ -1,4 +1,5 @@
-# Implementation MobileNetV2 to Classifiy Traditional House in Indonesia
+# Traditional House Classification in Indonesia
+This is Machine Learning Notebook to Classifiy Traditional House in Indonesia using MobileNetV2 Architecture.
 
 ### This Research Funded by HIT (Hibah Integrasi Tridharma)
 
@@ -12,4 +13,26 @@
 7. Saved and Evaluate The Model
 
 ### Result:
-(Coming Soon)
+1. <b>Training History:</b>
+
+    <img src="assets/history_training.png" width="400px"/>
+
+2. <b>Confusion Matrix:</b>
+    - Before Fine Tuning:
+
+        <img src="assets/cm_before_finetune.png" width="300px"/>
+    
+    - After Fine Tuning:
+    
+        <img src="assets/cm_after_finetune.png" width="300px"/>
+
+3. <b>Evaluate with F1-Score:</b>
+    - Before Fine Tuning:
+
+        <img src="assets/f1score_before_finetune.png" width="300px"/>
+    
+    - After Fine Tuning:
+    
+        <img src="assets/f1score_after_finetune.png" width="300px"/>
+
+### Paper Link : (Will be Update After Published as Journal)
