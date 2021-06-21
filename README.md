@@ -2,7 +2,7 @@
 <center><img src="assets/intro.jpg" width="800px"/></center>
 
 ## Introduction
-This is Machine Learning Notebook Research to Classifiy Traditional House in Indonesia using MobileNetV2 Architecture.<br>
+This is Machine Learning Notebook Research to Classify Traditional House in Indonesia using MobileNetV2 Architecture.<br>
 <b>This Research Funded by HIT (Hibah Integrasi Tridharma).</b>
 
 ## Workflows to Build Model
