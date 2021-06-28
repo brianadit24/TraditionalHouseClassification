@@ -1,11 +1,11 @@
 # Traditional House Classification in Indonesia
 <center><img src="assets/intro.jpg" width="800px"/></center>
 
-## Introduction <img src="https://github.com/brianadit24/IconREADME/blob/master/lightbulb/animat-lightbulb-color.gif" width="50px">
+## Introduction <img src="https://github.com/brianadit24/IconREADME/blob/master/lightbulb/animat-lightbulb-color.gif" width="80px">
 This is Machine Learning Notebook Research to Classify Traditional House in Indonesia using MobileNetV2 Architecture.<br>
 <b>This Research Funded by HIT (Hibah Integrasi Tridharma).</b>
 
-## Workflows to Build Model <img src="https://github.com/brianadit24/IconREADME/blob/master/customize/animat-customize-color.gif" width="50px">
+## Workflows to Build Model <img src="https://github.com/brianadit24/IconREADME/blob/master/customize/animat-customize-color.gif" width="80px">
 1. Collect Data on Google Image
 2. Cleaning Data and Data Preprocessing
 3. Data Augmentation
@@ -14,7 +14,7 @@ This is Machine Learning Notebook Research to Classify Traditional House in Indo
 6. Continue Training with UnFreeze Model (Fine Tuning)
 7. Saved and Evaluate The Model
 
-## Result <img src="https://github.com/brianadit24/IconREADME/blob/master/line-chart/animat-linechart-color.gif" width="50px">
+## Result <img src="https://github.com/brianadit24/IconREADME/blob/master/line-chart/animat-linechart-color.gif" width="80px">
 1. <b>Training History:</b>
 
     <img src="assets/history_training.png" width="400px"/>
