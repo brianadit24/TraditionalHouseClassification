@@ -7,7 +7,7 @@ This is Machine Learning Notebook Research to Classify Traditional House in Indo
 
 ## Workflows to Build Model
 1. Collect Data on Google Image
-2. Cleansing Data and Data Preprocessing
+2. Cleaning Data and Data Preprocessing
 3. Data Augmentation
 4. Build an Custom Architecture base on MobileNetV2
 5. Training with Freeze Model
